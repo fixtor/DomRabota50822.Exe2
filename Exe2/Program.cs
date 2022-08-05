@@ -7,5 +7,3 @@ if (a < b)
     Console.WriteLine("Максимальное число " + b + "\n");
     else 
         Console.WriteLine("Maксимальное число " + a + "\n");
-        
-    
