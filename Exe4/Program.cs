@@ -1,14 +1,16 @@
 ﻿Console.Clear();
-Console.Write("Введите чилcо a ");
+int max;
+Console.Write("Введите число a ");
 int a = Convert.ToInt32(Console.ReadLine());
-Console.Write("Введите чилcо b ");
+Console.Write("Введите чиcло b ");
 int b = Convert.ToInt32(Console.ReadLine());
-Console.Write("Введите чилcо c ");
+Console.Write("Введите чиcло c ");
 int c = Convert.ToInt32(Console.ReadLine());
-if (a < b && a < c)
-{
-    if (b < c)
-        Console.WriteLine("максимальное число: " + c);
-    else Console.WriteLine("максимальное число: " + b);
-}
-else Console.WriteLine("максимальное число: " + a);
+if (a > b)
+    max = a;
+else
+    max = b;
+if (max < c)
+    max = c;
+Console.WriteLine("максимальное число: " + max);
+Console.ReadKey();
