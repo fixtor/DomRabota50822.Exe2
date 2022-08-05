@@ -8,7 +8,7 @@ int c = Convert.ToInt32(Console.ReadLine());
 if (a < b && a < c)
 {
     if (b < c)
-    Console.WriteLine(c);
-    else Console.WriteLine(b);
+        Console.WriteLine("максимальное число: " + c);
+    else Console.WriteLine("максимальное число: " + b);
 }
-else Console.WriteLine(a);
+else Console.WriteLine("максимальное число: " + a);
