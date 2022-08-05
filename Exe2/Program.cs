@@ -1,6 +1,6 @@
-﻿Console.Clear();
+﻿//Console.Clear();
 Console.Write("Введите чилcо a ");
-int a = Convert.ToInt32(Console.ReadLine());
+22
 Console.Write("Введите число b ");
 int b = Convert.ToInt32(Console.ReadLine());
 if (a < b)
