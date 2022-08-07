@@ -1,4 +1,4 @@
-﻿Console.Clear();
+﻿Console.Clear(); //очищаем консоль
 Random rnd = new Random();
 int n = rnd.Next(20, 90);
 Console.WriteLine("n: " + n + "\n");
