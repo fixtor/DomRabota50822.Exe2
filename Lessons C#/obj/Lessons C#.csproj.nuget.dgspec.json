@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "I:\\Geekbrain\\DomRabota50822\\extraEx2\\extraEx2.csproj": {}
+    "I:\\Geekbrain\\DomRabota50822\\Lessons C#\\Lessons C#.csproj": {}
   },
   "projects": {
-    "I:\\Geekbrain\\DomRabota50822\\extraEx2\\extraEx2.csproj": {
+    "I:\\Geekbrain\\DomRabota50822\\Lessons C#\\Lessons C#.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "I:\\Geekbrain\\DomRabota50822\\extraEx2\\extraEx2.csproj",
-        "projectName": "extraEx2",
-        "projectPath": "I:\\Geekbrain\\DomRabota50822\\extraEx2\\extraEx2.csproj",
+        "projectUniqueName": "I:\\Geekbrain\\DomRabota50822\\Lessons C#\\Lessons C#.csproj",
+        "projectName": "Lessons C#",
+        "projectPath": "I:\\Geekbrain\\DomRabota50822\\Lessons C#\\Lessons C#.csproj",
         "packagesPath": "C:\\Users\\fixto\\.nuget\\packages\\",
-        "outputPath": "I:\\Geekbrain\\DomRabota50822\\extraEx2\\obj\\",
+        "outputPath": "I:\\Geekbrain\\DomRabota50822\\Lessons C#\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\fixto\\AppData\\Roaming\\NuGet\\NuGet.Config",

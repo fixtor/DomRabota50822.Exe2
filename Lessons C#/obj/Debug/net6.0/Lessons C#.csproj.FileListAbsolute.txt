@@ -1,0 +1,15 @@
+I:\Geekbrain\DomRabota50822\Lessons C#\bin\Debug\net6.0\Lessons C#.exe
+I:\Geekbrain\DomRabota50822\Lessons C#\bin\Debug\net6.0\Lessons C#.deps.json
+I:\Geekbrain\DomRabota50822\Lessons C#\bin\Debug\net6.0\Lessons C#.runtimeconfig.json
+I:\Geekbrain\DomRabota50822\Lessons C#\bin\Debug\net6.0\Lessons C#.dll
+I:\Geekbrain\DomRabota50822\Lessons C#\bin\Debug\net6.0\Lessons C#.pdb
+I:\Geekbrain\DomRabota50822\Lessons C#\obj\Debug\net6.0\Lessons C#.csproj.AssemblyReference.cache
+I:\Geekbrain\DomRabota50822\Lessons C#\obj\Debug\net6.0\Lessons C#.GeneratedMSBuildEditorConfig.editorconfig
+I:\Geekbrain\DomRabota50822\Lessons C#\obj\Debug\net6.0\Lessons C#.AssemblyInfoInputs.cache
+I:\Geekbrain\DomRabota50822\Lessons C#\obj\Debug\net6.0\Lessons C#.AssemblyInfo.cs
+I:\Geekbrain\DomRabota50822\Lessons C#\obj\Debug\net6.0\Lessons C#.csproj.CoreCompileInputs.cache
+I:\Geekbrain\DomRabota50822\Lessons C#\obj\Debug\net6.0\Lessons C#.dll
+I:\Geekbrain\DomRabota50822\Lessons C#\obj\Debug\net6.0\refint\Lessons C#.dll
+I:\Geekbrain\DomRabota50822\Lessons C#\obj\Debug\net6.0\Lessons C#.pdb
+I:\Geekbrain\DomRabota50822\Lessons C#\obj\Debug\net6.0\Lessons C#.genruntimeconfig.cache
+I:\Geekbrain\DomRabota50822\Lessons C#\obj\Debug\net6.0\ref\Lessons C#.dll
